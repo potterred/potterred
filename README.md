@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/10v5aHuvJTP4ZO/giphy.gif" width="1000" height="200"/>
+<img src="https://media.giphy.com/media/10v5aHuvJTP4ZO/giphy.gif"/>
 
 <h1 align="center">
   <br>Hi, there! Morgana aqui! ️
