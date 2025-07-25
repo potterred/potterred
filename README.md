@@ -8,7 +8,9 @@
 
 
 - 👾 a **student** working his way around thing
- - 🎓 Systems Dev student @ Anhanguera
+- 🎓 Systems Development student @ Anhanguera University
+-  💬 “A lesson without pain is meaningless.”
+
 
 
 
