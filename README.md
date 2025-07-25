@@ -8,7 +8,9 @@
 
 
 - 👾 a **student** working his way around thing
- - 💻 Studying Systems Analysis & Development at Anhanguera University
+ - 🎓 Systems Dev student @ Anhanguera
+
+
 
 
 
