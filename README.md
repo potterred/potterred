@@ -11,8 +11,6 @@
 - 🎓 Studying Systems Dev @ Anhanguera
 - 📘 Exploring programming concepts through JavaScript
 
-Se quiser misturar com seu estilo de aprendizado (ex: “curious by nature” ou “always building small projects”) ou adicionar uma linha sobre o que você gosta de desenvolver, posso personalizar ainda mais! 😄💡💬
-
 
 
 
