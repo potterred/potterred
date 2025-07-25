@@ -28,6 +28,7 @@
      <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
      <img src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt = "py" />  
 <div align="right">
+<a href="https://i.pinimg.com/736x/cb/5a/b7/cb5ab74f43a6a035c975b963ff7d8a31.jpg"></a>
 
   </div>
   </div>
