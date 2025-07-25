@@ -8,6 +8,9 @@
 
 
 - 👾 a **student** working his way around thing
+ - 💻 Studying Systems Analysis & Development at Anhanguera University
+
+
 
   
 <h2> / current skills / </h2>
