@@ -9,7 +9,6 @@
 
 - 👾 a **student** working his way around thing
 - 🎓 Studying Systems Dev @ Anhanguera
-- 📘 Exploring programming concepts through JavaScript
 
 
 
