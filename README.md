@@ -7,7 +7,7 @@
   
 
 
-- 👾 a **student** working his way around things
+- 👾 a **student** working his way around thing
 
   
 <h2> / current skills / </h2>
