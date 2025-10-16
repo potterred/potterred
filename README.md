@@ -1,36 +1,12 @@
+# Morgana Schneider
 
-<div>
-
-
-
-<h2> / about me /</h2>
-  
+### 🥊 Hobbies:
+Ler ficção fantástica, jogar video-games variados no PC, programar e automatizar, caminhar ao entardecer.
+<br>Treinar boxe e ler mangás e assistir animes e séries.
 
 
-- 👾 a **student** working his way around thing
-- 🎓 Studying Systems Dev @ Anhanguera
+Aprendendo continuamente:
 
-
-
-
-
-
-
-  
-<h2> / current skills / </h2>
-  
-- <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-  
-  - <h5> currently learning </h5>
-     <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-     <img src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt = "py" />  
-<div align="right">
-<a href="https://i.pinimg.com/736x/cb/5a/b7/cb5ab74f43a6a035c975b963ff7d8a31.jpg"></a>
-
-  </div>
-  </div>
-
-------
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
