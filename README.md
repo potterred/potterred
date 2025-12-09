@@ -18,7 +18,8 @@
 
 <br>
 
-
+## 🧮 📊 Github Stats
+<a href='https://github.com/Nikolas-as/github-stats-transparent'>
 
   <table>
     <tr>
